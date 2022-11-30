@@ -1,2 +1,0 @@
-# wcfree.github.io
-WC
